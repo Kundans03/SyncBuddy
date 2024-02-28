@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.37da1ed5.css",
-    "main.js": "/static/js/main.ed12f15f.js",
+    "main.css": "/static/css/main.99f9182f.css",
+    "main.js": "/static/js/main.eb4593c7.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.d35f3df5.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.63cc1a64.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.568a3f9d.chunk.js",
@@ -19,12 +19,12 @@
     "static/media/remixicon.svg?t=1705244689813": "/static/media/remixicon.426742b01cbcdd986634.svg",
     "static/media/remixicon.eot?t=1705244689813": "/static/media/remixicon.ff1ec9ee899cf84e3449.eot",
     "static/media/remixicon.ttf?t=1705244689813": "/static/media/remixicon.f1ed85ba47411bc8629e.ttf",
-    "static/media/pic.jpg": "/static/media/pic.aeef1d737eeec4de6972.jpg",
     "static/media/remixicon.woff?t=1705244689813": "/static/media/remixicon.85d5afadad2b2c04b2fb.woff",
     "static/media/remixicon.woff2?t=1705244689813": "/static/media/remixicon.7124d0d7809bef5b73ab.woff2",
+    "static/media/pic.png": "/static/media/pic.c70ebdd3d600a0ff3247.png",
     "index.html": "/index.html",
-    "main.37da1ed5.css.map": "/static/css/main.37da1ed5.css.map",
-    "main.ed12f15f.js.map": "/static/js/main.ed12f15f.js.map",
+    "main.99f9182f.css.map": "/static/css/main.99f9182f.css.map",
+    "main.eb4593c7.js.map": "/static/js/main.eb4593c7.js.map",
     "reactPlayerYouTube.d35f3df5.chunk.js.map": "/static/js/reactPlayerYouTube.d35f3df5.chunk.js.map",
     "reactPlayerSoundCloud.63cc1a64.chunk.js.map": "/static/js/reactPlayerSoundCloud.63cc1a64.chunk.js.map",
     "reactPlayerVimeo.568a3f9d.chunk.js.map": "/static/js/reactPlayerVimeo.568a3f9d.chunk.js.map",
@@ -41,7 +41,7 @@
     "453.6e0ef9c9.chunk.js.map": "/static/js/453.6e0ef9c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37da1ed5.css",
-    "static/js/main.ed12f15f.js"
+    "static/css/main.99f9182f.css",
+    "static/js/main.eb4593c7.js"
   ]
 }
